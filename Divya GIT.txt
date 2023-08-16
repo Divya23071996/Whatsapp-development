@@ -3,3 +3,5 @@ status
 all are seen 
 particular peopele seen
 only one person seen
+video call
+audio call
